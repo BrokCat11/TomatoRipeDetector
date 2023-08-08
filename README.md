@@ -27,3 +27,25 @@ Installez les bibliothèques requises en exécutant les commandes suivantes :
     pip install keras
     pip install pillow
     pip install numpy
+
+Cela installera les bibliothèques Keras, Pillow (PIL) et NumPy nécessaires pour exécuter le script.
+
+Vérifiez si les bibliothèques ont été correctement installées en exécutant la commande suivante :
+
+
+
+    pip list
+
+Vous devriez voir une liste des bibliothèques installées, y compris celles spécifiées ci-dessus.
+
+# Exécution du script
+
+Une fois Python 3.9 et les bibliothèques requises installées, vous pouvez exécuter le script Python donné comme suit :
+
+Assurez-vous d'être dans le répertoire où se trouve le script Python que vous souhaitez exécuter.
+
+Exécutez le script en utilisant la commande suivante :
+
+    python3 main.py
+
+C'est tout ! Vous avez maintenant installé Python 3.9 et les bibliothèques requises, et vous pouvez exécuter le script.
