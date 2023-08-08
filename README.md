@@ -16,22 +16,17 @@ Ce guide explique comment installer Python 3.9 et les bibliothèques requises po
    ```bash
    python --version
 
-Vous devriez voir une sortie indiquant la version de Python installée, par exemple, "Python 3.9.x".
+
+Vous devriez voir une liste des bibliothèques installées, y compris celles spécifiées ci-dessus.
+
 Installation des bibliothèques requises
 
 Assurez-vous d'être dans le répertoire du projet où se trouve le script Python donné.
 
-Installez les bibliothèques requises en exécutant la commande suivante :
- ```bash
-     pip install keras pillow numpy
+Installez les bibliothèques requises en exécutant les commandes suivantes :
 
-         
-Cela installera les bibliothèques Keras, Pillow (PIL) et NumPy nécessaires pour exécuter le script.
+    bash
 
-Vérifiez si les bibliothèques ont été correctement installées en exécutant la commande suivante :
-
-bash
-
-pip list
-
-Vous devriez voir une liste des bibliothèques installées, y compris celles spécifiées ci-dessus.
+pip install keras
+pip install pillow
+pip install numpy
