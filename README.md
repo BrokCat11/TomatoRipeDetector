@@ -22,6 +22,7 @@ Installation des bibliothèques requises
 Assurez-vous d'être dans le répertoire du projet où se trouve le script Python donné.
 
 Installez les bibliothèques requises en exécutant la commande suivante :
+         ```bash
     
         pip install keras pillow numpy
     
