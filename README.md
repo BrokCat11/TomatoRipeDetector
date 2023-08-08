@@ -13,8 +13,7 @@ Ce guide explique comment installer Python 3.9 et les bibliothèques requises po
 
 3. Vérifiez si Python a été correctement installé en ouvrant une nouvelle fenêtre de l'invite de commandes et en tapant la commande suivante :
 
-   ```bash
-   python --version
+       python --version
 
 
 Vous devriez voir une liste des bibliothèques installées, y compris celles spécifiées ci-dessus.
