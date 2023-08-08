@@ -1,0 +1,6 @@
+opencv-python==4.5.4.58
+numpy==1.20.3
+tensorflow==2.8.2
+keras==2.6.0
+scipy==1.7.1
+keras-models==0.0.7
