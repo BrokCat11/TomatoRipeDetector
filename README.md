@@ -23,7 +23,7 @@ Assurez-vous d'être dans le répertoire du projet où se trouve le script Pytho
 
 Installez les bibliothèques requises en exécutant la commande suivante :
     
-    pip install keras pillow numpy
+        pip install keras pillow numpy
     
 Cela installera les bibliothèques Keras, Pillow (PIL) et NumPy nécessaires pour exécuter le script.
 
